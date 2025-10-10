@@ -32,6 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# adicionar informações 
 
 # Application definition
 
